@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Memeber = () => {
+const Routers = () => {
   return (
     <div>
-      Memeber
+      Routers
     </div>
   )
 }
 
-export default Memeber
+export default Routers
